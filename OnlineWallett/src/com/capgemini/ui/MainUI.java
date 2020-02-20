@@ -22,6 +22,7 @@ public class MainUI {
 			System.out.println("3.Show the balance");
 			System.out.println("4.Withdraw the amount");
 			System.out.println("5.Exit");
+			System.out.println("Heyy");
 			a = s.nextInt();
 			String accountId;
 
